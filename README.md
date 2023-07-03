@@ -1,11 +1,11 @@
 ## 🚀 Tecnologias
 
 - [NodeJS](https://nodejs.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [JWT](https://github.com/auth0/node-jsonwebtoken)
-- [dotenv](https://github.com/motdotla/dotenv)
-- [bcrypt.js](https://www.npmjs.com/package/bcryptjs)
-- [uuid](https://github.com/uuidjs/uuid)
+- [HubSpot](https://br.hubspot.com/)
+- [EsLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [serverless](https://www.serverless.com/)
+- [GoogleApis](https://googleapis.com)
 
 #### Integração Google Sheets e HubSpot CRM
 
