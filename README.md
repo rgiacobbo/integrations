@@ -37,6 +37,4 @@ Salve o arquivo de chaves gerado na api do google cloud com o nome credentials.j
 func host start
 ```
 
-### Descrição
 
-A API de noticias tem como funcionalidades o cadastros de autoes e suas noticias.
