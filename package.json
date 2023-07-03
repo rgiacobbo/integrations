@@ -6,8 +6,17 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "@hubspot/api-client": "^9.0.0",
+    "googleapis": "^120.0.0",
+    "hubspot": "^2.3.14"
+  },
   "devDependencies": {
-    "azure-functions-core-tools": "^4.x"
+    "azure-functions-core-tools": "^4.x",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.25.2",
+    "prettier": "^2.8.8"
   }
 }

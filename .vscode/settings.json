@@ -5,9 +5,12 @@
   "azureFunctions.projectRuntime": "~4",
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.preDeployTask": "npm prune",
-  "liveServer.settings.proxy": {
-    "enable": true,
-    "baseUri": "/api/integration",
-    "proxyUri": "http://localhost:7071/api/integration/"
-  }
+
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "source.organizeImports": true
+    }
+  },
+  "editor.formatOnSave": true
 }
